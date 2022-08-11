@@ -1,6 +1,6 @@
 import pygame
 import os           # pega os arquivos do computador
-import random       # geração de nmúmeros aleatórios
+import random       # geração de números aleatórios
 
 TELA_LARGURA = 500
 TELA_ALTURA = 800
